@@ -6,3 +6,15 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS 파일들
+.DS_Store

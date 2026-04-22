@@ -1,5 +1,3 @@
-package com.ureca.solved;
-
 import java.util.ArrayDeque;
 import java.util.Iterator;
 import java.util.Scanner;

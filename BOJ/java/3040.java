@@ -1,5 +1,3 @@
-package com.ureca.solved;
-
 import java.util.Scanner;
 
 public class 3040 {

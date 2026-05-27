@@ -9,7 +9,9 @@
 
 # Gradle
 .gradle/
+**/src/.gradle/
 build/
+**/build/
 
 # IntelliJ IDEA
 .idea/

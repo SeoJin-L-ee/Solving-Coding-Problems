@@ -10,7 +10,7 @@ public class Solution_1244 {
 	static int[] cardNums;
     static int chgCnt;
     static int maxNum;
-    static boolean isFinished; // 
+    static boolean isFinished;
 	
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

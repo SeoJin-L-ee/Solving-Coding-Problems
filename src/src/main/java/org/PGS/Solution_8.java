@@ -10,7 +10,7 @@ class Solution_8 {
             long mid = (st+ed) / 2;
             // 가능하면 ed를 더 타이트하게 잡기
             if (canDeliver(mid, a, b, g, s, w, t)) ed = mid;
-                // 불가능하면 st를 더 늘리기
+            // 불가능하면 st를 더 늘리기
             else st = mid;
         }
         return ed;

@@ -3,7 +3,7 @@ package org.PGS;
 import java.util.*;
 
 // 징검다리
-public class Solution_19 {
+public class Solution_10 {
     public int solution(int distance, int[] rocks, int n) {
         int l = 1;
         int r = distance;

@@ -3,7 +3,7 @@ package org.PGS;
 import java.util.*;
 
 // N으로 표현
-class Solution {
+class Solution_9 {
     public int solution(int N, int number) {
         List<Set<Integer>> dp = new ArrayList<>();
         for (int i = 0; i <= 8; i++) dp.add(new HashSet<>());
